@@ -8,7 +8,7 @@
 
 > ## Input
 > * Given the number of vertices.
->  > 2 ≦ Number of vertices ≦ 100
+>   > * 2 ≦ Number of vertices ≦ 100
 > * A matrix contains a digit value (ranged from 0 to 9)
 
 > ## Output
