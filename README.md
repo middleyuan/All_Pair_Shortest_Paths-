@@ -17,8 +17,8 @@
 >   > Cost:xxx
 > * If the cost of the multiple paths are equivalent, select the one which the string of path is smaller (string comparison). 
 >   > * EX: (three paths with the same cost)
->      > path A: 1->2->3->4->5
->      > path B: 1->3->2->4->5
->      > path C: 1->4->5
->      > You need to print path A.
+>      > * path A: 1->2->3->4->5
+>      > * path B: 1->3->2->4->5
+>      > * path C: 1->4->5
+>      > * You need to print path A.
 
